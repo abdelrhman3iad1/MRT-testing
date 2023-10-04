@@ -1,0 +1,4 @@
+First Way :
+- by invite others by their github username from my repo settings in the collaborators option
+Second Way :
+- by forks/upstream a repo then pull a request with your updates in the project
