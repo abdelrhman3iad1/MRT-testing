@@ -1,0 +1,1 @@
+after trying 9 times , all the issues revolved around merging the 3 branches and trying to do the correct way to merging them
